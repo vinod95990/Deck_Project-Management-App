@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Deck_Project-Management-App/static/css/main.b8ea677e.css",
+    "main.js": "/Deck_Project-Management-App/static/js/main.64c1c9f1.js",
+    "static/media/navigation.png": "/Deck_Project-Management-App/static/media/navigation.5e0ec1a8572dab721012.png",
+    "static/media/send.png": "/Deck_Project-Management-App/static/media/send.2ce2a557c3b6fe11e1dd.png",
+    "static/media/logo.png": "/Deck_Project-Management-App/static/media/logo.294c65213cd07173fcf0.png",
+    "index.html": "/Deck_Project-Management-App/index.html",
+    "main.b8ea677e.css.map": "/Deck_Project-Management-App/static/css/main.b8ea677e.css.map",
+    "main.64c1c9f1.js.map": "/Deck_Project-Management-App/static/js/main.64c1c9f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8ea677e.css",
+    "static/js/main.64c1c9f1.js"
+  ]
+}
